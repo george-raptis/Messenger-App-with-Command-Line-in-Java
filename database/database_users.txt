@@ -1,0 +1,7 @@
+username, password, role
+admin, admin, admin
+mod, mod, mod
+user, user, user
+ban, ban, ban
+asdf, asdf, user
+test, test, user
